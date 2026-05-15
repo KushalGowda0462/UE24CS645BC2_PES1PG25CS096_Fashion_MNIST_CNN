@@ -252,12 +252,4 @@ The convolution layer detects useful features, pooling reduces spatial size, and
 
 ---
 
-## Submission Details
-
-GitHub repository name format:
-
-```text
-UE24CS645BC2_<USN>_Fashion_MNIST_CNN
-```
-
 
