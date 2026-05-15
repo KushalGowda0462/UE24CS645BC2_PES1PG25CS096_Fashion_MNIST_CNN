@@ -260,22 +260,4 @@ GitHub repository name format:
 UE24CS645BC2_<USN>_Fashion_MNIST_CNN
 ```
 
-Email details:
 
-```text
-To: paragjainpes@gmail.com
-Subject: DLTP_Assignment_1
-
-Body:
-Name: <Your Name>
-USN: <Your USN>
-GitHub Link: <Your GitHub Repository Link>
-```
-
----
-
-## Author
-
-Name: `<Your Name>`  
-USN: `<Your USN>`
-# UE24CS645BC2_PES1PG25CS096_Fashion_MNIST_CNN
